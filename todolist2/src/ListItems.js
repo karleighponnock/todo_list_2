@@ -21,9 +21,9 @@ function ListItems(props){
      
     </div>})
     return <div>
-        
-        {listItems}
        
+        {listItems}
+        
     </div>;
   }
 

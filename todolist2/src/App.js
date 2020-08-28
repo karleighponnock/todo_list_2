@@ -13,13 +13,15 @@ class App extends React.Component {
         }
       }
     }
-    
+
   render() {
     return (
       <div className="App">
         <header>
-          <form id="to-do-form">
-            <input type="text" placeholder="Enter Text" />
+          <form id="to-do-form" onSubmit={this.addItem}>
+            <input type="text" placeholder="Enter Text"
+            value={this.currentItem.text}
+            onChange={this.handleInput}/>
             <button type="submit">Add</button>
           </form>
         </header>

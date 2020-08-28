@@ -44,6 +44,13 @@ class App extends React.Component {
         })
       }
     }
+    deleteItem(key){
+      const filteredItems= this.state.items.filter(item =>
+        item.key!==key);
+      this.setState({
+        items: filteredItems
+      })
+    }
     
   render() {
     return (

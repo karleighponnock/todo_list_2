@@ -14,7 +14,7 @@ function ListItems(props){
                 onClick={ () => props.deleteItem(item.key)
                 }/>
             </span>
-            </p>
+            </p> 
         </div>
     })
     return(

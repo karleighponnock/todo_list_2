@@ -12,7 +12,7 @@ Practice React Todo List 2
   - [redits](#Credits)
 
  ## Screenshots_and_GIFs 
-   - ![Short vid of deployed project](public/assets/demo.gif)
+   - ![Short vid of deployed project](todolist2/public/assets/demo.gif)
   
   ## Motivation
   Simply to practive basic react features. 

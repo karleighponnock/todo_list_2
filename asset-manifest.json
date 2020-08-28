@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/karleighponnock/todo_list_2/static/css/main.ddfa09ed.chunk.css",
-    "main.js": "/karleighponnock/todo_list_2/static/js/main.58fb2415.chunk.js",
-    "main.js.map": "/karleighponnock/todo_list_2/static/js/main.58fb2415.chunk.js.map",
-    "runtime-main.js": "/karleighponnock/todo_list_2/static/js/runtime-main.73a2c530.js",
-    "runtime-main.js.map": "/karleighponnock/todo_list_2/static/js/runtime-main.73a2c530.js.map",
-    "static/js/2.832ea22d.chunk.js": "/karleighponnock/todo_list_2/static/js/2.832ea22d.chunk.js",
-    "static/js/2.832ea22d.chunk.js.map": "/karleighponnock/todo_list_2/static/js/2.832ea22d.chunk.js.map",
-    "index.html": "/karleighponnock/todo_list_2/index.html",
-    "precache-manifest.d2b544b5df8ae5c699d501f946be9ae1.js": "/karleighponnock/todo_list_2/precache-manifest.d2b544b5df8ae5c699d501f946be9ae1.js",
-    "service-worker.js": "/karleighponnock/todo_list_2/service-worker.js",
-    "static/css/main.ddfa09ed.chunk.css.map": "/karleighponnock/todo_list_2/static/css/main.ddfa09ed.chunk.css.map",
-    "static/js/2.832ea22d.chunk.js.LICENSE.txt": "/karleighponnock/todo_list_2/static/js/2.832ea22d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/karleighponnock/todo_list_2/static/media/logo.5d5d9eef.svg"
+    "main.css": "/todo_list_2/static/css/main.ddfa09ed.chunk.css",
+    "main.js": "/todo_list_2/static/js/main.655dba02.chunk.js",
+    "main.js.map": "/todo_list_2/static/js/main.655dba02.chunk.js.map",
+    "runtime-main.js": "/todo_list_2/static/js/runtime-main.2e450528.js",
+    "runtime-main.js.map": "/todo_list_2/static/js/runtime-main.2e450528.js.map",
+    "static/js/2.832ea22d.chunk.js": "/todo_list_2/static/js/2.832ea22d.chunk.js",
+    "static/js/2.832ea22d.chunk.js.map": "/todo_list_2/static/js/2.832ea22d.chunk.js.map",
+    "index.html": "/todo_list_2/index.html",
+    "precache-manifest.ee1da3be8366186a2a6804201dd5788e.js": "/todo_list_2/precache-manifest.ee1da3be8366186a2a6804201dd5788e.js",
+    "service-worker.js": "/todo_list_2/service-worker.js",
+    "static/css/main.ddfa09ed.chunk.css.map": "/todo_list_2/static/css/main.ddfa09ed.chunk.css.map",
+    "static/js/2.832ea22d.chunk.js.LICENSE.txt": "/todo_list_2/static/js/2.832ea22d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/todo_list_2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73a2c530.js",
+    "static/js/runtime-main.2e450528.js",
     "static/js/2.832ea22d.chunk.js",
     "static/css/main.ddfa09ed.chunk.css",
-    "static/js/main.58fb2415.chunk.js"
+    "static/js/main.655dba02.chunk.js"
   ]
 }

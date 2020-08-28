@@ -61,6 +61,7 @@ class App extends React.Component {
         item.text= text;
       }
     })
+    //update state with new items
     this.setState({
       items: items
     })

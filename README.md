@@ -3,6 +3,9 @@ Practice React Todo List 2
 
   ## Overview 
   This project another practice todo list app to practice react. This application takes a slightly different approach from todolist1 at  https://github.com/karleighponnock/todo_list_1/edit/master/README.md <br /> , uses fontawesome icons and items can also be edited.
+  <br />
+  <br />
+  App deployed at: https://karleighponnock.github.io/todo_list_2
 
   ## Table of Contents:
   - [Screenshots_and_GIFs](#Screenshots_and_GIFs)
@@ -31,6 +34,9 @@ Practice React Todo List 2
   ## Credits
  This was a react todolist walk through youtube video posted by CodeSpot at https://www.youtube.com/watch?v=N8kYlimhuLw&feature=emb_rel_end <br />
  Walk through by abarna1908 GitHub link: https://github.com/abarna1908
+ This repo was created and worked on by Karleigh Ponnock <br />
+ Github:https://github.com/karleighponnock?tab=repositories <br />
+ Profile: https://karleighponnock.github.io/New-Responsive-Portfolio/
 
 
   © Copyright 2020

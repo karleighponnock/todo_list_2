@@ -24,12 +24,13 @@ Practice React Todo List 2
   - npm i 
 
   ## How_to_use
-  - run npm start
-  use input text box to type in new item press enter ot the submit button
-  when item is added to page text box will clear
-  now you can add another item OR
-  click on trash icon for the item you want to delete and it will be removed
-  click in item text area to edit
+  - if cloning down run npm start <br /> <br />
+  
+  use input text box to type in new item press enter ot the submit button <br />
+  when item is added to page text box will clear <br />
+  now you can add another item OR <br />
+  click on trash icon for the item you want to delete and it will be removed <br />
+  click in item text area to edit <br />
 
   ## Credits
  This was a react todolist walk through youtube video posted by CodeSpot at https://www.youtube.com/watch?v=N8kYlimhuLw&feature=emb_rel_end <br />

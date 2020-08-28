@@ -12,6 +12,8 @@ class App extends React.Component {
         key:''
       }
     }
+    this.addItem = this.addItem.bind(this);
+    this.handleInput = this.handleInput.bind(this);
     }
 
     handleInput(e){
@@ -24,6 +26,7 @@ class App extends React.Component {
     }
     addItem(e){
       e.preventDefault();
+      const newItem = this.state.currentItem
     }
     
   render() {

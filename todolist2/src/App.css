@@ -26,7 +26,7 @@ body{
   
 }
 
-#to-do-form input:focus{
+#to-do-form input:focus, #to-do-form button:focus{
   outline: none;
 }
 

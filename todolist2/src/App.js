@@ -13,6 +13,7 @@ class App extends React.Component {
       }
     }
     }
+
     handleInput(e){
       this.setState({
         currentItem:{
@@ -21,6 +22,10 @@ class App extends React.Component {
         }
       })
     }
+    addItem(e){
+      e.preventDefault();
+    }
+    
   render() {
     return (
       <div className="App">

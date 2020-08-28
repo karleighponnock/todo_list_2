@@ -49,7 +49,7 @@ class App extends React.Component {
           <button type="submit">Add</button>
         </form>
         </header>
-        <ListItems></ListItems>
+        <ListItems items={this.state.items}></ListItems>
       </div>
     )
   }

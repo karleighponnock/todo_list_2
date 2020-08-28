@@ -24,3 +24,8 @@
     position: absolute;
     right: 10px;
 }
+.faicons{
+    margin: 0 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
